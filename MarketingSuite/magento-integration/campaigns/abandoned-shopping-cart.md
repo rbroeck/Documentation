@@ -1,4 +1,4 @@
-# Abandoned shopping card campaign
+# Abandoned shopping carts campaign
 
 An online store can have perfect SEO, be heavily advertised and have a firm
 customer base, but research states that [2/3 of the cars will become abandoned][research-url].
