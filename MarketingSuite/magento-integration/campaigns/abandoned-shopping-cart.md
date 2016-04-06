@@ -18,6 +18,8 @@ carts with last modification time between 3 to 4 hours ago. Make sure that
 `Active` option is set to `yes` and `only quotes without orders` is set and
 save the list with a name "AbandonedShoppingCarts".
 
+![Abandones shopping cart mailing list settings](../images/abandoned-shopping-cart-settings.png)
+
 Next step is to create a template that will be used to create actual emailing.
 Create a new template and name it "Abandoned shopping cart template". Within
 the template insert a text block with the following content: 
